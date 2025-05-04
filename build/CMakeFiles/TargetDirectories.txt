@@ -1,0 +1,3 @@
+/home/devendra/PESU/6th sem/HP/Project/graphx-cuda/build/CMakeFiles/graphx.dir
+/home/devendra/PESU/6th sem/HP/Project/graphx-cuda/build/CMakeFiles/edit_cache.dir
+/home/devendra/PESU/6th sem/HP/Project/graphx-cuda/build/CMakeFiles/rebuild_cache.dir

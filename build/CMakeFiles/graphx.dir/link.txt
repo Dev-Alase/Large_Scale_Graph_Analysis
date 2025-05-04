@@ -1,0 +1,1 @@
+/usr/bin/g++-13 -Wl,--dependency-file=CMakeFiles/graphx.dir/link.d @CMakeFiles/graphx.dir/objects1.rsp -o graphx @CMakeFiles/graphx.dir/linkLibs.rsp -L"/opt/cuda/targets/x86_64-linux/lib/stubs" -L"/opt/cuda/targets/x86_64-linux/lib"
